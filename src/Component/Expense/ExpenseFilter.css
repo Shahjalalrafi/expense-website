@@ -1,0 +1,18 @@
+.expenseFilter {
+    display: flex;
+}
+
+.expenseFilter__label {
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    flex-basis: 70%;
+}
+
+.expenseFilter__select {
+    padding: 15px;
+    font-weight: 600;
+    flex-basis: 20%;
+    
+}
